@@ -17,7 +17,7 @@ A voxel game engine in **OpenGL** programmed in **C++** including **procedural g
  - [x] Render a cube to the screen
  - [x] Camera system
  - [x] Chunks
- - [ ] Face culling
+ - [x] Face culling
  - [ ] Lighting
  - [ ] Implement dynamic chunk generation at runtime for infinite worlds
  - [ ] Frustum Culling
