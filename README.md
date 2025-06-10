@@ -11,14 +11,15 @@ Come september, I am going to take on a master's degree in Games Computing at th
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
 A voxel game engine in **OpenGL** programmed in **C++** including **procedural generation** for optimised, infinate worlds to explore.
-![image](https://github.com/user-attachments/assets/d549286e-47ab-47b8-9014-1874e1d92ebd)
+![Screenshot 2025-06-10 220651](https://github.com/user-attachments/assets/32f3a00e-8a9b-4c4e-9305-dbe179c94974)
+
 
 #### Task List
  - [x] Render a cube to the screen
  - [x] Camera system
  - [x] Chunks
  - [x] Face culling
- - [ ] Lighting
+ - [x] Lighting
  - [x] Implement dynamic chunk generation at runtime for infinite worlds
  - [ ] Frustum Culling
  - [ ] Block placing and destroying
