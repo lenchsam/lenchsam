@@ -11,7 +11,8 @@ Come september, I am going to take on a master's degree in Games Computing at th
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
 A voxel game engine in **OpenGL** programmed in **C++** including **procedural generation** for optimised, infinate worlds to explore.
-![Screenshot 2025-06-10 220651](https://github.com/user-attachments/assets/32f3a00e-8a9b-4c4e-9305-dbe179c94974)
+![image](https://github.com/user-attachments/assets/97a37518-c479-4b29-9cc3-339f973973e4)
+
 
 
 #### Task List
