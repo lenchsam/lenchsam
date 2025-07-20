@@ -22,6 +22,7 @@ A voxel game engine in **OpenGL** programmed in **C++** including **procedural g
  - [x] Face culling
  - [x] Lighting
  - [x] Implement dynamic chunk generation at runtime for infinite worlds
+ - [x] Render Distance
  - [ ] Frustum Culling
  - [ ] PCG in its own thread
 
