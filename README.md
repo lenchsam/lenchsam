@@ -1,6 +1,6 @@
 ## Hi there, I'm Sam 👋
 ### 🎓 About me
-I'm 21 years old, graduating from the University of Staffordshire this July in Games Design and Programming. I have recently been refining my low-level programming in C++; however, I also use a lot of Unity and some Unreal too. 
+I'm 21 years old graduate from The University of Staffordshire in Games Design and Programming. I have recently been refining my low-level programming in C++; however, I also use a lot of Unity and some Unreal too. 
 
 Come september, I am going to take on a master's degree in Games Computing at the University of Staffordshire to further enhance my skills and continue my game development journey.
 
