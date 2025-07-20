@@ -24,8 +24,6 @@ A voxel game engine in **OpenGL** programmed in **C++** including **procedural g
  - [x] Implement dynamic chunk generation at runtime for infinite worlds
  - [ ] Frustum Culling
  - [ ] PCG in its own thread
- - [ ] Block placing and destroying
- - [ ] Tree generation (maybe 🌲)
 
 ### 🌐 Find Me Online  
 Click the icons to be directed to my profiles.
