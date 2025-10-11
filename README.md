@@ -2,14 +2,13 @@
 ### 🎓 About me
 I'm 21 years old graduate from The University of Staffordshire in Games Design and Programming, currently studying MSc Games Computing. I have recently been refining my low-level programming in C++; however, I also use a lot of Unity and some Unreal too. 
 
-Come september, I am going to take on a master's degree in Games Computing at the University of Staffordshire to further enhance my skills and continue my game development journey.
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
+Currently im working on my university modules, so personal projects are on a temporary hold, but when I get time this is what im working on.
 A voxel game engine in **OpenGL** programmed in **C++** including **procedural generation** for optimised, infinate worlds to explore.
 ![image](https://github.com/user-attachments/assets/97a37518-c479-4b29-9cc3-339f973973e4)
 
