@@ -8,22 +8,20 @@ I'm a 22 year old graduate from The University of Staffordshire in Games Design 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
-Currently im working on my university modules, so personal projects are on a temporary hold, but when I get time this is what im working on.
-A voxel game engine in **OpenGL** programmed in **C++** including **procedural generation** for optimised, infinate worlds to explore.
-![image](https://github.com/user-attachments/assets/97a37518-c479-4b29-9cc3-339f973973e4)
+Currently im working on my university modules, this module allowed us to make any game we wanted. I chose a chess AI using bitboards.
+
+<img width="441" height="444" alt="image" src="https://github.com/user-attachments/assets/7a700f8c-773e-4870-8a23-eebe2669ebbc" />
 
 
 
 #### Task List
- - [x] Render a cube to the screen
- - [x] Camera system
- - [x] Chunks
- - [x] Face culling
- - [x] Lighting
- - [x] Implement dynamic chunk generation at runtime for infinite worlds
- - [x] Render Distance
- - [ ] Frustum Culling
- - [ ] PCG in its own thread
+ - [x] Bitboard board representation
+ - [x] Display starting position from FEN string
+ - [x] Non sliding pieces moving using lookup tables
+ - [ ] sliding pieces moving using magic bitboards
+ - [ ] Checkmate
+ - [ ] Castling & En passant
+ - [ ] Chess AI
 
 ### 🌐 Find Me Online  
 Click the icons to be directed to my profiles.
