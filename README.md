@@ -18,7 +18,7 @@ Currently im working on my university modules, this module allowed us to make an
  - [x] Bitboard board representation
  - [x] Display starting position from FEN string
  - [x] Non sliding pieces moving using lookup tables
- - [ ] sliding pieces moving using magic bitboards
+ - [x] sliding pieces moving using magic bitboards
  - [ ] Checkmate
  - [ ] Castling & En passant
  - [ ] Chess AI
