@@ -20,7 +20,7 @@ Currently im working on my university modules, this module allowed us to make an
  - [x] Non sliding pieces moving using lookup tables
  - [x] sliding pieces moving using magic bitboards
  - [x] Move generation for a position
- - [ ] Check/Checkmate/Stalemate
+ - [x] Check/Checkmate/Stalemate
  - [ ] Castling & En passant
  - [ ] Chess AI
 
