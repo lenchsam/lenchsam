@@ -21,8 +21,8 @@ Currently im working on my university modules, this module allowed us to make an
  - [x] sliding pieces moving using magic bitboards
  - [x] Move generation for a position
  - [x] Check/Checkmate/Stalemate
- - [ ] Castling & En passant
- - [ ] Chess AI
+ - [x] Castling & En passant
+ - [x] Chess AI
 
 ### 🌐 Find Me Online  
 Click the icons to be directed to my profiles.
