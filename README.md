@@ -8,21 +8,21 @@ I'm a 22 year old graduate from The University of Staffordshire in Games Design 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
-Currently im working on my university modules, this module allowed us to make any game we wanted. I chose a chess AI using bitboards, lookup tables, magic bitboards and more for optimisation.
+Currently im working on my university modules, this module allowed us to make any game we wanted. I chose a chess AI using bitboards, lookup tables, magic bitboards and more for optimisation. It's rating is currently about 1300-1400 based on testing against chess.com bots.
 
 <img width="441" height="444" alt="image" src="https://github.com/user-attachments/assets/7a700f8c-773e-4870-8a23-eebe2669ebbc" />
 
 
 
 #### Task List
- - [x] Bitboard board representation
- - [x] Display starting position from FEN string
- - [x] Non sliding pieces moving using lookup tables
- - [x] sliding pieces moving using magic bitboards
- - [x] Move generation for a position
- - [x] Check/Checkmate/Stalemate
- - [x] Castling & En passant
- - [x] Chess AI
+ - [x] Full Chess Game
+ - [x] Position Evaluation
+ - [x] Nega-Max search
+ - [x] Alpha Beta Pruning
+ - [ ] Move Ordering
+ - [ ] Opening Tables
+ - [ ] Quiescence Search
+ - [ ] Iterative Deepening
 
 ### 🌐 Find Me Online  
 Click the icons to be directed to my profiles.
