@@ -19,10 +19,10 @@ Currently im working on my Master's degree modules, these modules allow me to ma
  - [x] PeSTO Position Evaluation
  - [x] Nega-Max search
  - [x] Alpha Beta Pruning
- - [ ] Move Ordering
- - [ ] Opening Tables
- - [ ] Quiescence Search
+ - [x] Quiescence Search
  - [ ] Iterative Deepening
+ - [ ] Opening Tables
+ 
 
 ### 🌐 Find Me Online  
 Click the icons to be directed to my profiles.
