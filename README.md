@@ -1,6 +1,6 @@
 ## Hi there, I'm Sam 👋
 ### 🎓 About me
-I'm a 22 year old student currently studying MSc Games Computing at The University of Staffordshire. I am also an alumni, having graduated with a 2:1 in BSc (Hons) Games Design and Programming. I mostly have been using unity, however I also use C++ with OpenGL or DirectX11.
+I'm a 22 year old student currently studying MSc Games Computing at The University of Staffordshire. I am also an alumni, having graduated with a 2:1 in BSc (Hons) Games Design and Programming. I mostly have been using Unity, however I also use C++ with OpenGL or DirectX11.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
