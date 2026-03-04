@@ -1,27 +1,21 @@
 ## Hi there, I'm Sam 👋
 ### 🎓 About me
-I'm a 22 year old graduate from The University of Staffordshire in Games Design and Programming, currently studying MSc Games Computing. I have recently been refining my low-level programming in C++; however, I also use a lot of Unity and some Unreal too. 
+I'm a 22 year old student currently studying MSc Games Computing at The University of Staffordshire. I am also an alumni, having graduated with a 2:1 in BSc (Hons) Games Design and Programming. I mostly have been using unity, however I also use C++ with OpenGL or DirectX11.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ### 🛠️ what I am working on
-Currently im working on my Master's degree modules, these modules allow me to make any game I want. I chose a chess AI using bitboards, lookup tables, magic bitboards and more for optimisation. It's rating is currently about 1500 based on testing against chess.com bots.
+Currently im working on my Master's dissertation, which i chose to make an audio raytracing system. This works by firing rays that bounce off walls to simulate audio waves. This should lead to greatly improved audio from what most games currently have.
 
-<img width="441" height="444" alt="image" src="https://github.com/user-attachments/assets/7a700f8c-773e-4870-8a23-eebe2669ebbc" />
-
-
+<img width="677" height="318" alt="image" src="https://github.com/user-attachments/assets/ae6fec05-3c1a-40a6-aacf-d6a852836ab3" />
 
 #### Task List
- - [x] Full Chess Game
- - [x] PeSTO Position Evaluation
- - [x] Nega-Max search
- - [x] Alpha Beta Pruning
- - [x] Quiescence Search
- - [ ] Iterative Deepening
- - [ ] Opening Tables
+ - [x] Bouncing Rays
+ - [ ] Firing rays around a sphere not a circle
+ - [ ] Listening to audio rays
+ - [x] Audio absorbtion on bounce
  
 
 ### 🌐 Find Me Online  
