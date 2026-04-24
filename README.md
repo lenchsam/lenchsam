@@ -13,9 +13,10 @@ Currently im working on my Master's dissertation, which i chose to make an audio
 
 #### Task List
  - [x] Bouncing Rays
- - [ ] Firing rays around a sphere not a circle
- - [ ] Listening to audio rays
+ - [x] Firing rays around a sphere not a circle
+ - [x] Listening to audio rays
  - [x] Audio absorbtion on bounce
+ - [x] Audio Raytracing Compute Shader
  
 
 ### 🌐 Find Me Online  
